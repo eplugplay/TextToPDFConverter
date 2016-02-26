@@ -1,0 +1,5 @@
+c:\users\stevey\documents\visual studio 2010\Projects\TextToPDFConverter\TextToPDFConverter\bin\Debug\TextToPDFConverter.exe
+c:\users\stevey\documents\visual studio 2010\Projects\TextToPDFConverter\TextToPDFConverter\bin\Debug\TextToPDFConverter.pdb
+c:\users\stevey\documents\visual studio 2010\Projects\TextToPDFConverter\TextToPDFConverter\obj\x86\Debug\TextToPDFConverter.exe
+c:\users\stevey\documents\visual studio 2010\Projects\TextToPDFConverter\TextToPDFConverter\obj\x86\Debug\TextToPDFConverter.pdb
+c:\users\stevey\documents\visual studio 2010\Projects\TextToPDFConverter\TextToPDFConverter\bin\Debug\TextToPDFConverter.exe.config
